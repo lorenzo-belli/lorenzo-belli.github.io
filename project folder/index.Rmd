@@ -1,8 +1,38 @@
 ---
-title: "Home"
-output: html_document
+title: "Lorenzo Belli"
+output:
+  html_document:
+    includes:
+      in_header: cover.html
+      css: float.css
 ---
 
-# Welcome
 
-This is my personal website. Put photos, links to CV, publications, etc.
+
+Welcome to my personal website!
+
+<p align="justify">
+I am Lorenzo Belli, a PhD student in the Department of Political and Social Sciences at the Universitat Pompeu Fabra (UPF).
+
+I hold a bachelor’s degree in Sociology from Università di Bologna (UNIBO), a master’s degree in Sociology and Social Research from Università di Trento (UNITN) with honours, and a master’s degree in Sociology and Demography from UPF.
+
+I am currently working on the project “Life-course trajectories of abusers and victims of intimate partner violence” lead by Prof. Jorge Rodríguez Menés, and funded by the Agencia Estatal de Investigación.
+
+My main academic interests include social and gender inequalities, gender violence.
+
+Here you will learn about my research, publications, and work. Feel free to explore and reach out!
+</p>
+
+</div>
+:::
+
+::: {style="width: 70%;"}
+<div>
+```{r me, echo=FALSE, fig.align='center', fig.dim=c(4,2), out.width = "50%"}
+knitr::include_graphics("/images/image-me.jpg")
+```
+
+
+</div>
+:::
+:::
