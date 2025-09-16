@@ -1,0 +1,8 @@
+---
+title: "Home"
+output: html_document
+---
+
+# Welcome
+
+This is my personal website. Put photos, links to CV, publications, etc.
