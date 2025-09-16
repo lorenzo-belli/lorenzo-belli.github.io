@@ -1,0 +1,14 @@
+name: "Lorenzo Belli"
+output_dir: "docs"     # optional
+navbar:
+  title: "Lorenzo Belli"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Papers"
+      href: papers.html
+output:
+  html_document:
+    theme: readthedocs
