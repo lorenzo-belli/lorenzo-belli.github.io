@@ -1,0 +1,19 @@
+---
+title: "CV"
+---
+
+::: {style="display: flex;"}
+
+::: {style="width: 50%;"}
+<div>
+
+### Curriculum Vitae
+
+Download my full CV here:
+
+<a href="docs/Belli_CV_EN.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+
+
+</div>
+:::
+:::
