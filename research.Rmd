@@ -1,0 +1,16 @@
+---
+title: "Research"
+output:
+  html_document:
+        css: float.css
+
+---
+
+<div class="header-image">
+  <img src="images/image-blackboard.jpg" alt="Header image">
+</div>
+
+### Published
+
+Work in progress... ;)
+

@@ -1,5 +1,8 @@
 ---
 title: "CV"
+output:
+  html_document:
+      css: float.css
 ---
 
 ::: {style="display: flex;"}
@@ -11,7 +14,7 @@ title: "CV"
 
 Download my full CV here:
 
-<a href="docs/Belli_CV_EN.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+<a href="docs/Belli_CV_EN_updated.pdf#" class="download" title="Download CV as PDF">Download CV</a>
 
 
 </div>

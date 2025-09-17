@@ -2,9 +2,15 @@
 title: "PhD Thesis"
 output:
   html_document:
-#    includes:
-#      in_header: image-thesis.jpg
+    css: float.css
+
 ---
+
+<div class="header-image">
+  <img src="images/image-thesis.jpg" alt="Header image">
+</div>
+
+
 
 My doctoral thesis is part of the project “Life-course trajectories of abusers and victims of intimate partner violence”, led by my supervisor Jorge Rodríguez Menés and funded by the Spanish Ministry of Science, Innovation, and Universities (MICINN). The project began in 2018 and culminated in 2020 with a comprehensive dataset of perpetrators and survivors of intimate partner violence (IPV) in Catalonia (Spain).
 
