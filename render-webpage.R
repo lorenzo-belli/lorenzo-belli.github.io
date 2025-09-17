@@ -4,7 +4,7 @@
 
 # show current folder and files
 getwd()
-setwd("C:/Users/u218305/OneDrive - Alma Mater Studiorum Università di Bologna/Università/Dottorato/my-webpage Markdown/lorenzo-belli.github.io-main")
+setwd("C:/Users/u218305/Documents/GitHub/lorenzo-belli.github.io")
 list.files()
 
 # attempt to render and show all messages
