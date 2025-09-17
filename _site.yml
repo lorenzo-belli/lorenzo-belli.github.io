@@ -5,17 +5,17 @@ navbar:
   type: inverse
   left:
     - text: "About"
-      icon: fa-home
+      icon: fa-user
       href: index.html
     - text: "My thesis"
-      icon: fa-pencil
+      icon: fa-book
       href: thesis.html
     - text: "Research"
-      icon: fa-archive fa
+      icon: fa-flask fa
       href: research.html
     - text: "CV"
       icon: fa-file-pdf-o
-      href: cv.html                                                          # change
+      href: cv.html                                            
     - text: "Contact"
       icon: fa-envelope fa
       href: contact.html
