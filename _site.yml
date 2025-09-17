@@ -12,7 +12,7 @@ navbar:
       href: thesis.html
     - text: "Research"
       icon: fa-archive fa
-      href: papers.html
+      href: research.html
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html                                                          # change

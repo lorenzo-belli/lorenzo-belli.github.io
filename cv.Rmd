@@ -12,9 +12,7 @@ output:
 
 ### Curriculum Vitae
 
-Download my full CV here:
-
-<a href="docs/Belli_CV_EN_updated.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+Download my full CV here: <a href="Belli_CV_EN_updated.pdf#" class="download" title="Download CV as PDF">Download CV</a>
 
 
 </div>
