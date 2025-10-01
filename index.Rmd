@@ -1,5 +1,5 @@
 ---
-title: "Lorenzo Belli"
+title: "Hey there, Lorenzo here!"
 output:
   html_document:
       css: float.css
@@ -13,11 +13,11 @@ output:
 Welcome to my personal website!
 
 <p align="justify">
-Lorenzo Belli is a PhD student in the **Department of Political and Social Sciences** at Universitat Pompeu Fabra (UPF). He holds a bachelor’s degree in Sociology from the Università di Bologna (UNIBO), a master’s degree in Sociology and Social Research with honours from the Università di Trento (UNITN), and a master’s degree in Sociology and Demography from UPF.
+Lorenzo Belli is a PhD student in the **Department of Political and Social Sciences** at **Universitat Pompeu Fabra** (UPF) and member of the Sociodemography Research Group ([DEMOSOC](https://www.upf.edu/web/demosoc)). He holds a bachelor’s degree in Sociology from the Università di Bologna, a master’s degree in Sociology and Social Research with honors from the Università di Trento, and a master’s degree in Sociology and Demography from UPF.
 
-He is currently a member of the project *“Life-course trajectories of abusers and victims of intimate partner violence”*, funded by the Agencia Estatal de Investigación and cofunded by the European Union.
+He is currently involved with the team for the project *"Contextualized Multi-Intervention Strategies to Break the Vicious Cycle of Intimate Partner Violence"*, funded by the Agencia Estatal de Investigación and cofunded by the European Union.
 
-His research interests focus on social and **gender inequalities**, as well as **gender-based violence**. This site presents his research, publications, and academic work. Visitors are welcome to explore and get in touch!
+His main research interests focus on social and **gender inequalities**, as well as **gender-based violence**. He has expertise in both qualitative and quantitative methodologies. This site presents his research, publications, and academic work. Visitors are welcome to explore and get in touch!
 </p>
 
 

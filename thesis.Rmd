@@ -12,6 +12,6 @@ output:
 
 
 
-My doctoral thesis is part of the project *“Life-course trajectories of abusers and victims of intimate partner violence”*, funded by the Agencia Estatal de Investigación and cofunded by the European Union. The project hold a comprehensive dataset of perpetrators and victims of intimate partner violence (IPV) in Catalonia (Spain).
+My doctoral thesis is part of the project *"Contextualized Multi-Intervention Strategies to Break the Vicious Cycle of Intimate Partner Violence"*, funded by the Agencia Estatal de Investigación and cofunded by the European Union. The project hold a comprehensive dataset of perpetrators and victims of intimate partner violence (IPV) in Catalonia (Spain). At the moment, I am focusing on studying the trajectories of victimization, employment, and health among women who have experienced IPV.
 
 
